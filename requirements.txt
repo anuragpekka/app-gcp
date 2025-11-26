@@ -22,5 +22,4 @@ pytz
 polars
 prettytable
 timezonefinder
-git+https://github.com/diliprk/flatlib.git@sidereal
 -e .
