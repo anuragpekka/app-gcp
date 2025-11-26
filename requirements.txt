@@ -22,4 +22,3 @@ pytz
 polars
 prettytable
 timezonefinder
--e .
