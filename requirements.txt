@@ -1,0 +1,26 @@
+streamlit
+sentence-transformers
+langchain==0.3.27
+flask
+pypdf
+python-dotenv
+langchain-pinecone==0.2.5
+pinecone[grpc]==6.0.2
+langchain_community
+langchain_openai
+langchain_experimental
+langchain_google_genai
+markdown
+uuid
+geopy
+opencage
+pyswisseph
+flatlib
+thefuzz[speedup]
+tqdm
+pytz
+polars
+prettytable
+timezonefinder
+git+https://github.com/diliprk/flatlib.git@sidereal
+-e .
