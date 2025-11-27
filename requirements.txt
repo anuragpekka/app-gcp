@@ -14,13 +14,12 @@ uuid
 geopy
 opencage
 pyswisseph==2.10.3.2
-flatlib
+# flatlib
 thefuzz[speedup]
 tqdm
 pytz
 polars
 prettytable
 timezonefinder
-flatlib
-# git+https://github.com/diliprk/flatlib.git@sidereal
+git+https://github.com/diliprk/flatlib.git@sidereal
 # -e .
